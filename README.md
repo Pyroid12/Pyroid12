@@ -81,15 +81,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-
   <img
-    src="https://streak-stats.demolab.com/?user=Pyroid12&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Pyroid12&theme=dark&hide_border=true"
     alt="GitHub Streak"
   />
-
-  <br/><br/>
-
+  <br><br>
   <img
     src="https://github-readme-stats.vercel.app/api?username=Pyroid12&show_icons=true&theme=dark&hide_border=true"
     alt="GitHub Stats"
